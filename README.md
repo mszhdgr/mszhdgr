@@ -12,8 +12,8 @@
 </div>
 
 # 👋 Hi, I'm Sam.
-## 🌱 I’m currently learning Software Engineering at ALX Africa.
-### ⚡ Ready to do hard things.⚡
+## 🌱 I’m currently learning programming.
+### ⚡ I'm exited for this journey.⚡
 
 ---
 
